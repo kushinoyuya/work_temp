@@ -37,7 +37,7 @@
 - [ ] Ansible（DevNetAssociate）<br>
 - [ ] Azure Fundamentals（AZ-900）<br>
 * 参考資料<br>
->[【CCNA】【速報】シスコ技術者認定試験が変わります！｜NET VISION MAGAZINE](https://netvisionsystems.info/study/263)
+>[【CCNA】【速報】シスコ技術者認定試験が変わります！｜NET VISION MAGAZINE](https://netvisionsystems.info/study/263)<br>
 >[Azure AD の学習リソース - Qiita](https://qiita.com/niiku-y/items/0c8061de4ecf797bb747)
 
 
