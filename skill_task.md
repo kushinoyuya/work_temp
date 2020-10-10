@@ -42,9 +42,11 @@
 - [ ] SQL作成（できたらやりたい程度）
 
 ### 現在の案件で得られたスキル
-- [ ] Python3スクリプト作成
-- [ ] Windows IIS 証明書発行と更新
-- [ ] ESXをAWS VMimport
+- Python3スクリプト作成
+- AWSサーバ構築（windows,Linux）
+- ESXiサーバ構築（windows）
+- Windows IIS 証明書発行と更新
+- ESXiをAWS VMimport
 
 ### 補足事項
-* 今年いっぱいは、ハードワークになりそう
+* 今年いっぱいは、ハードワークになりそう...（学習に支障ありのレベル）1日2〜3hの残業
